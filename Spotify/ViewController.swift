@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Spotify
 //
-//  Created by pritam on 2024-01-07.
+//  Created by Pritam Sapkota on 2024-01-07.
 //
 
 import UIKit
